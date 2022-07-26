@@ -136,7 +136,7 @@ nav ul li:hover > ul {
     margin: 10px;
     border: 5px solid #fff;
     box-shadow: 4px 4px 24px 1px rgba(224, 9, 134, 0.75);
-    trnasition: transform 0.5s;
+   transition: transform 0.5s;
 }
 .gallery-image img:hover {
     transform: scale(1.15);
