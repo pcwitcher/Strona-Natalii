@@ -140,6 +140,7 @@ nav ul li:hover > ul {
 .gallery-image img:hover {
     transform: scale(1.15);
     cursor: pointer;
+    transition: 500;
 }
 .movie-section {
     height: 400px;
